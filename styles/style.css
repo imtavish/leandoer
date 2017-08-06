@@ -1,6 +1,5 @@
 body {
-	font-family: "Times New Roman", arial;	
-	text-shadow: 2px 2px #000000;
+	
 	background-color: #42f4df;
 	background-image: url(http://wallpapercave.com/wp/wp1895650.png);
 }
@@ -29,12 +28,15 @@ div#wrapper {
 }
 
 p {
+	font-family: "Times New Roman", arial;
 	text-align: center;
 	font-size: 1em;
 	color: #52a7e9;
 }
 
 h1 {
+	font-family: "Times New Roman", arial;	
+	text-shadow: 2px 2px #000000;
 	text-align: center;
 	color: #52a7e9;
 }

@@ -1,3 +1,11 @@
+/*
+ Assignment: Final WEBD 162 web site project
+ Author: Tavish Phommavongsay
+ Date: August 7, 2017
+ Filename: style.css
+ Description: Fanpage for Jonatan Leandoer AKA Yung Lean
+ Dependencies: none
+*/
 body {
 	background-color: #42f4df;
 	background-image: url(../images/arizona.png);
@@ -31,8 +39,7 @@ p {
 	text-align: center;
 	font-size: 1em;
 	color: #ff00ff;
-}
-
+} 
 h1 {
 	font-family: "Times New Roman", arial;	
 	text-shadow: 2px 2px #000000;
@@ -60,4 +67,8 @@ nav ul li {
 nav ul li a {
 	text-decoration: none;
 	color: #6ff6db;
+}
+nav ul li a:hover {
+	background-color: rgba(204, 0, 0, .25)
+}
 }
